@@ -3,7 +3,7 @@ import { render } from 'react-dom';
 import { Router, Link, Route, hashHistory } from 'react-router';
 
 import Login from './components/Login.js';
-import styles from '../css/main.css';
+import styles from './App.css';
 
 let App = React.createClass({
   
